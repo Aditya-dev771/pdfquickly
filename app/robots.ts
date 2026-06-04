@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
     },
 
-    sitemap: "https://pdfquickly.xyz/sitemap.xml",
+    sitemap: "https://pdfquickly.online/sitemap.xml",
   };
 }

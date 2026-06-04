@@ -52,7 +52,7 @@ icons: {
     title: "PDFQuickly - Free Online PDF Tools",
     description:
       "Free online PDF tools with no sign up and no watermark.",
-    url: "https://pdfquickly.xyz",
+    url: "https://pdfquickly.online",
     siteName: "PDFQuickly",
     type: "website",
   },
