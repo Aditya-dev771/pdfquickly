@@ -1,10 +1,17 @@
 import SplitPdfTool from "@/components/SplitPdfTool";
 import type { Metadata } from "next";
 
-export const metadata = {
-  title: "Split PDF Free No Sign Up",
+export const metadata: Metadata = {
+  title: "Merge PDF Online Free | PDFQuickly",
   description:
-    "Split PDF files online for free. Extract selected pages from a PDF with no sign up and no watermark.",
+    "Merge multiple PDF files into one PDF online for free. Fast, secure, no signup, and no watermark.",
+  keywords: [
+    "merge pdf",
+    "combine pdf",
+    "merge pdf online",
+    "pdf merger",
+    "free pdf merger",
+  ],
 };
 
 export default function SplitPdfPage() {

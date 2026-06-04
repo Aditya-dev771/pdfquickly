@@ -1,12 +1,18 @@
 import JpgToPdfTool from "@/components/JpgToPdfTool";
 import type { Metadata } from "next";
 
-export const metadata = {
-  title: "JPG to PDF Free No Sign Up",
+export const metadata: Metadata = {
+  title: "Merge PDF Online Free | PDFQuickly",
   description:
-    "Convert JPG images to PDF online for free. No sign up and no watermark.",
+    "Merge multiple PDF files into one PDF online for free. Fast, secure, no signup, and no watermark.",
+  keywords: [
+    "merge pdf",
+    "combine pdf",
+    "merge pdf online",
+    "pdf merger",
+    "free pdf merger",
+  ],
 };
-
 export default function JpgToPdfPage() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-950">
