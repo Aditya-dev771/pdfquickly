@@ -1,10 +1,11 @@
 import MergePdfTool from "@/components/MergePdfTool";
 import ToolLayout from "@/components/ToolLayout";
+import type { Metadata } from "next";
 
 export const metadata = {
-  title: "Merge PDF Free No Sign Up",
+  title: "Merge PDF Online Free",
   description:
-    "Merge multiple PDF files into one PDF online for free. No sign up and no watermark.",
+    "Merge multiple PDF files into one PDF online for free. No signup, no watermark.",
 };
 
 export default function MergePdfPage() {

@@ -1,4 +1,5 @@
 import SplitPdfTool from "@/components/SplitPdfTool";
+import type { Metadata } from "next";
 
 export const metadata = {
   title: "Split PDF Free No Sign Up",

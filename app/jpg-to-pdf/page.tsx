@@ -1,4 +1,5 @@
 import JpgToPdfTool from "@/components/JpgToPdfTool";
+import type { Metadata } from "next";
 
 export const metadata = {
   title: "JPG to PDF Free No Sign Up",
